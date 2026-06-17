@@ -1,0 +1,14 @@
+#find area of triangle 
+
+Base=float(input("Enter the base of the triangle: "))
+Height=float(input("Enter the height of the triangle: "))
+
+#perform opration     
+
+Area = 0.5 * Base * Height
+
+#Display the result
+print("The area of the triangle is: ", Area)
+
+#stop
+
